@@ -3705,7 +3705,7 @@ a {
 }
 
 .header-navbar__hamburger.active span:nth-of-type(2) {
-  top: -40px;
+  left: -40px;
   opacity: 0;
 }
 
